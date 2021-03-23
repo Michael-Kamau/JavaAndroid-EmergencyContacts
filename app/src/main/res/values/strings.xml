@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emergency Contacts</string>
+    <string name="host">http://192.168.43.147</string>
+
+</resources>

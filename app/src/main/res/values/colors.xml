@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0D7411</color>
+    <color name="colorPrimaryDark">#2C8A2F</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="colorCity">#1a3b21</color>
+    <color name="colorIcons">#27661b</color>
+    <color name="colorRatingBar">#3cd150</color>
+    <color name="colorTown">#141514</color>
+</resources>
